@@ -1,0 +1,17 @@
+.marker {
+	width: 100px;
+	background-color: white;
+	border: 1px solid #999;
+	border-radius: 4px;
+	font-size: 10px;
+	text-align: center;
+	padding: 4px 0;
+}
+.marker.selected {
+	background-color: yellow;
+	border-color: black;
+}
+.imahe img{
+	width: 50px;
+	margin: 0px auto;
+}
